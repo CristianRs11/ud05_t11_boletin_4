@@ -4,7 +4,7 @@
     </head>
     <body>
         <form action="ejercicio_17.php" enctype="multipart/form-data" method="post">
-            <label>Escribe o número: <input type="number" name="nu1" style="width: 50px;" /></lable>
+            <label>Escribe o número: <input type="number" name="nu1" style="width: 50px;" /></label>
             <br>
             <input type="submit" value="Submit"/>
             <br>
